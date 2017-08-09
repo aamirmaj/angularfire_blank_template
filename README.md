@@ -24,3 +24,7 @@ $ ionic cordova run ios
 
 Substitute ios for android if not on a Mac.
 
+To add AngularFire2 and Firebase run this:
+
+```bash
+$ npm enstall angularfire2 firebase --save
